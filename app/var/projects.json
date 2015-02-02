@@ -567,6 +567,24 @@
                 "evaengine",
                 "Chinese"
             ]
+        },
+        {
+            "permalink": "silentant",
+            "name": "SilentAnt",
+            "summary": "A cloud based email template service for developers",
+            "description": "Help developers to manage their email templates on cloud",
+            "url": "https://silentant.co/",
+            "info": "Email template on cloud",
+            "src": "https://github.com/EvaEngine/EvaEngine",
+            "submitter": "dzungcao",
+            "submissionDate": "2015-02-02",
+            "images": [
+            ],
+            "tags": [
+                "Email template",
+                "Mysql",
+                "Phalcon"
+            ]
         }
     ]
 }
